@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Adetunji Israel E/Documents/Codes/C++/CodeJam_Cryptopangrams/main.cpp
+iostream
+-
+vector
+-
+set
+-
+algorithm
+-
+
