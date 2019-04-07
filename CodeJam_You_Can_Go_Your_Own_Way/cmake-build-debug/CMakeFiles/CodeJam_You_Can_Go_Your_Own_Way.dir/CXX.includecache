@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Adetunji Israel E/Documents/Codes/C++/CodeJam_You_Can_Go_Your_Own_Way/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+
